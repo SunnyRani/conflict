@@ -4,3 +4,4 @@ homepage
 profile
 chats
 calls
+payment
